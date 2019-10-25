@@ -1,0 +1,574 @@
+"comment","purchase","test_drive","breakdown","feedback","quality"
+"my vehicle has been damaged",0,0,1,0,0
+"please tell someone to repair my car",0,0,1,0,0
+"when will you repair my car",0,0,1,0,0
+"our vehicle has met with an accident",0,0,1,0,0
+"my car requires assistance",0,0,1,0,0
+"want to buy a car",1,0,0,0,0
+"need to purchase a vehicle",1,0,0,0,0
+"i would like information on purchasing a new vehicle",1,0,0,0,0
+"can i get information for buying a new vehicle",1,0,0,0,0
+"will you please provide me with the details for a new vehicle",1,0,0,0,0
+"what is the cost of the car",1,0,0,0,0
+"we wanted to buy a new vehicle",1,0,0,0,0
+"must purchase a car",1,0,0,0,0
+"must lease a car",1,0,0,0,0
+"think about buying a vehicle",1,0,0,0,0
+"would like to buy a car",1,0,0,0,0
+"would you like to buy a vehicle",1,0,0,0,0
+"thought to buy a vehicle",1,0,0,0,0
+"think of a car buy",1,0,0,0,0
+"thinking about a car purchase",1,0,0,0,0
+"thought about a vehicle to buy",1,0,0,0,0
+"how can i purchase a vehicle",1,0,0,0,0
+"how do i purchase a vehicle",1,0,0,0,0
+"how can i purchase a car",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles can be purchased",1,0,0,0,0
+"which cars for purchase are available",1,0,0,0,0
+"what cars to purchase are available",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles for purchase are accessible",1,0,0,0,0
+"would like to test a vehicle drive",0,1,0,0,0
+"i wanted to take the test drive of the car",0,1,0,0,0
+"i want to test drive a car",0,1,0,0,0
+"want to test your vehicle drive",0,1,0,0,0
+"would like to test the car drive",0,1,0,0,0
+"would like to test a vehicle",0,1,0,0,0
+"want to run a vehicle for testing",0,1,0,0,0
+"want to run a car for trial",0,1,0,0,0
+"wanna run a vehicle to test",0,1,0,0,0
+"would like to try a car",0,1,0,0,0
+"want to run a car to test",0,1,0,0,0
+"wanna run a vehicle for testing",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"test Run a Auto",0,1,0,0,0
+"can we get a car for test drive",0,1,0,0,0
+"test run a vehicle",0,1,0,0,0
+"run a car Trial",0,1,0,0,0
+"run a vehicle test",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"i am looking for a vehicle for ride",0,1,0,0,0
+"is a vehicle available for test ride",0,1,0,0,0
+"why will i not get the test ride",0,1,0,0,0
+"is the test drive available",0,1,0,0,0
+"i want an electric car for test drive",0,1,0,0,0
+"sorry sir no vehicle is available for test drive",0,1,0,0,0
+"my friend was given a car for test ride",0,1,0,0,0
+"why can't i get the test drive",0,1,0,0,0
+"I'm sorry there seems to be some sort of miscommunication the TECO electric vehicle is not ready for test drive get for private purposes",0,1,0,0,0
+"sorry test drive is not possible",0,1,0,0,0
+"which car do you want for test drive",0,1,0,0,0
+"is the vehicle available for a test ride",0,1,0,0,0
+"run a car for testing",0,1,0,0,0
+"vehicle drive test",0,1,0,0,0
+"how can i test a car",0,1,0,0,0
+"how can i test a vehicle",0,1,0,0,0
+"we want to test drive a car",0,1,0,0,0
+"i would like to test your fresh car",0,1,0,0,0
+"i would like to test your new vehicle",0,1,0,0,0
+"my car had a failure",0,0,1,0,0
+"my vehicle has had a breakdown",0,0,1,0,0
+"my vehicle has a rupture",0,0,1,0,0
+"a failure of my car",0,0,1,0,0
+"a breakdown in my car",0,0,1,0,0
+"my car requires to be repaired",0,0,1,0,0
+"my vehicle is under breakdown i am on the road",0,0,1,0,0
+"it has got broken down",0,0,1,0,0
+"my car needs a reparation",0,0,1,0,0
+"my car needs repair",0,0,1,0,0
+"a repair of my car",0,0,1,0,0
+"need a car repair mechanic",0,0,1,0,0
+"need a mechanic for my vehicle to repair",0,0,1,0,0
+"need a repairing mechanic for my car",0,0,1,0,0
+"require a mechanic to fix my car",0,0,1,0,0
+"require a mechanic to repair my car",0,0,1,0,0
+"require car help",0,0,1,0,0
+"require car support",0,0,1,0,0
+"need vehicle support",0,0,1,0,0
+"the car has broke",0,0,1,0,0
+"my vehicle broke",0,0,1,0,0
+"need car support following an accident",0,0,1,0,0
+"require car help after an incident",0,0,1,0,0
+"requires vehicle assistance after a crash",0,0,1,0,0
+"need vehicle assistance after an accident",0,0,1,0,0
+"need car help following an accident",0,0,1,0,0
+"need car help after an accident",0,0,1,0,0
+"need vehicle assistance following an accident",0,0,1,0,0
+"need vehicle assistance after a crash",0,0,1,0,0
+"need car assistance after an accident",0,0,1,0,0
+"need car aid following an accident",0,0,1,0,0
+"please send mechanic to my accident",0,0,1,0,0
+"i have had an accident please send mechanic",0,0,1,0,0
+"please send mechanic, I had an accident",0,0,1,0,0
+"how would you rate our services",0,0,0,1,0
+"how are you going to rate our services",0,0,0,1,0
+"can you please give feedback",0,0,0,1,0
+"we have certain questions for you",0,0,0,1,0
+"we have a set of questions",0,0,0,1,0
+"is it okay if i ask a set of questions",0,0,0,1,0
+"how would you rate us",0,0,0,1,0
+"rate us out of a scale of",0,0,0,1,0
+"how much points will you give",0,0,0,1,0
+"i will give 5 out of",0,0,0,1,0
+"how would you rate",0,0,0,1,0
+"i was not satisfied with that",0,0,0,1,0
+"thank you for your valuable time",0,0,0,1,0
+"thank you for giving the ratings",0,0,0,1,0
+"were you happy with the service",0,0,0,1,0
+"what would our services be like",0,0,0,1,0
+"how do you rate our services",0,0,0,1,0
+"your services have been satisfactory",0,0,0,1,0
+"your services have been successful",0,0,0,1,0
+"you were adequate in your services",0,0,0,1,0
+"your services were excellent",0,0,0,1,0
+"your services were very good",0,0,0,1,0
+"you were outstanding in your services",0,0,0,1,0
+"your services were great",0,0,0,1,0
+"you were excellent in your service",0,0,0,1,0
+"you can reply on a scale of one to ten",0,0,0,1,0
+"one being the lowest and ten being the highest",0,0,0,1,0
+"i liked your treatment",0,0,0,1,0
+"we are trying to assess your feedback",0,0,0,1,0
+"there are many problems",0,0,0,0,1
+"car is not working properly",0,0,0,0,1
+"car has a lot of issues",0,0,0,0,1
+"the gearbox is having issues",0,0,0,0,1
+"there are brake issues",0,0,0,0,1
+"brake issues are present",0,0,0,0,1
+"there are motor issues",0,0,0,0,1
+"there are problems with the engine",0,0,0,0,1
+"there are engine issues",0,0,0,0,1
+"the engine is problematic",0,0,0,0,1
+"the car does not work correctly",0,0,0,0,1
+"the vehicle does not function properly",0,0,0,0,1
+"i faced problems with the car",0,0,0,0,1
+"i have faced problems with the car",0,0,0,0,1
+"i faced vehicle problems",0,0,0,0,1
+"i faced battery problems",0,0,0,0,1
+"i have had problems with the battery",0,0,0,0,1
+"parts of the car do not work correctly",0,0,0,0,1
+"parts of vehicles not function correctly",0,0,0,0,1
+"the car has had problems",0,0,0,0,1
+"the automobile has problems",0,0,0,0,1
+"vehicle has constant noises coming out",0,0,0,0,1
+"the car is getting continual noises",0,0,0,0,1
+"the exhaust car has problems",0,0,0,0,1
+"ongoing car problems",0,0,0,0,1
+"ongoing vehicle issues",0,0,0,0,1
+"repetitive gearbox problems",0,0,0,0,1
+"problems with repeated transmission",0,0,0,0,1
+"motor issues repeated",0,0,0,0,1
+"repeating problems with engine",0,0,0,0,1
+"motor issues repeatedly",0,0,0,0,1
+"in car continuous noises",0,0,0,0,1
+"many times i have face the same problem",0,0,0,0,1
+"i have the same issue many times",0,0,0,0,1
+"the car has many problems",0,0,0,0,1
+"hi how are you",0,0,0,0,0
+"hello sir",0,0,0,0,0
+
+
+"i am really sorry for that",0,0,0,0,0
+"we are really sorry for that",0,0,0,0,0
+"sorry to hear that",0,0,0,0,0
+"we will try our best",0,0,0,0,0
+"please provide your address",0,0,0,0,0
+"your address sir",0,0,0,0,0
+"where are you now sir",0,0,0,0,0
+"in which place are you in now",0,0,0,0,0
+"how much time will it take",0,0,0,0,0
+"will it take time",0,0,0,0,0
+"i don't understand",0,0,0,0,0
+"we don't understand",0,0,0,0,0
+"sorry to hear that",0,0,0,0,0
+"we are sorry to hear that",0,0,0,0,0
+"how can i help you",0,0,0,0,0
+"how may i help you",0,0,0,0,0
+"may i help you sir",0,0,0,0,0
+"how may i help you madam",0,0,0,0,0
+"will you please provide me with your address",0,0,0,0,0
+
+
+
+
+
+
+
+
+
+
+
+"want to buy a bike",1,0,0,0,0
+"need to purchase a vehicle",1,0,0,0,0
+"i would like information on purchasing a new vehicle",1,0,0,0,0
+"can i get information for buying a new vehicle",1,0,0,0,0
+"will you please provide me with the details for a new vehicle",1,0,0,0,0
+"what is the cost of the bike",1,0,0,0,0
+"we wanted to buy a new vehicle",1,0,0,0,0
+"must purchase a bike",1,0,0,0,0
+"must lease a bike",1,0,0,0,0
+"think about buying a vehicle",1,0,0,0,0
+"would like to buy a bike",1,0,0,0,0
+"would you like to buy a vehicle",1,0,0,0,0
+"thought to buy a vehicle",1,0,0,0,0
+"think of a bike buy",1,0,0,0,0
+"thinking about a bike purchase",1,0,0,0,0
+"thought about a vehicle to buy",1,0,0,0,0
+"how can i purchase a vehicle",1,0,0,0,0
+"how do i purchase a vehicle",1,0,0,0,0
+"how can i purchase a bike",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles can be purchased",1,0,0,0,0
+"which bikes for purchase are available",1,0,0,0,0
+"what bikes to purchase are available",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles for purchase are accessible",1,0,0,0,0
+"would like to test a vehicle drive",0,1,0,0,0
+"i wanted to take the test drive of the bike",0,1,0,0,0
+"i want to test drive a bike",0,1,0,0,0
+"want to test your vehicle drive",0,1,0,0,0
+"would like to test the bike drive",0,1,0,0,0
+"would like to test a vehicle",0,1,0,0,0
+"want to run a vehicle for testing",0,1,0,0,0
+"want to run a bike for trial",0,1,0,0,0
+"wanna run a vehicle to test",0,1,0,0,0
+"would like to try a bike",0,1,0,0,0
+"want to run a bike to test",0,1,0,0,0
+"wanna run a vehicle for testing",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"test Run a Auto",0,1,0,0,0
+"test run a vehicle",0,1,0,0,0
+"run a bike Trial",0,1,0,0,0
+"run a vehicle test",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"run a bike for testing",0,1,0,0,0
+"vehicle drive test",0,1,0,0,0
+"how can i test a bike",0,1,0,0,0
+"how can i test a vehicle",0,1,0,0,0
+"i would like to test your fresh bike",0,1,0,0,0
+"i would like to test your new vehicle",0,1,0,0,0
+"my bike had a failure",0,0,1,0,0
+"my vehicle has had a breakdown",0,0,1,0,0
+"my vehicle has a rupture",0,0,1,0,0
+"a failure of my bike",0,0,1,0,0
+"a breakdown in my bike",0,0,1,0,0
+"my bike requires to be repaired",0,0,1,0,0
+"my vehicle is under breakdown i am on the road",0,0,1,0,0
+"i was going from pune to bombay and it has got broken down",0,0,1,0,0
+"i am somewhere near nigri",0,0,1,0,0
+"my bike needs a reparation",0,0,1,0,0
+"my bike needs repair",0,0,1,0,0
+"a repair of my bike",0,0,1,0,0
+"need a bike repair mechanic",0,0,1,0,0
+"need a mechanic for my vehicle to repair",0,0,1,0,0
+"need a repairing mechanic for my bike",0,0,1,0,0
+"require a mechanic to fix my bike",0,0,1,0,0
+"require a mechanic to repair my bike",0,0,1,0,0
+"require bike help",0,0,1,0,0
+"require bike support",0,0,1,0,0
+"need vehicle support",0,0,1,0,0
+"need bike support following an accident",0,0,1,0,0
+"require bike help after an incident",0,0,1,0,0
+"requires vehicle assistance after a crash",0,0,1,0,0
+"need vehicle assistance after an accident",0,0,1,0,0
+"need bike help following an accident",0,0,1,0,0
+"need bike help after an accident",0,0,1,0,0
+"need vehicle assistance following an accident",0,0,1,0,0
+"need vehicle assistance after a crash",0,0,1,0,0
+"need bike assistance after an accident",0,0,1,0,0
+"need bike aid following an accident",0,0,1,0,0
+"please send mechanic to my accident",0,0,1,0,0
+"i have had an accident please send mechanic",0,0,1,0,0
+"please send mechanic, I had an accident",0,0,1,0,0
+"there are many problems",0,0,0,0,1
+"bike is not working properly",0,0,0,0,1
+"bike has a lot of issues",0,0,0,0,1
+"the gearbox is having issues",0,0,0,0,1
+"there are brake issues",0,0,0,0,1
+"brake issues are present",0,0,0,0,1
+"there are motor issues",0,0,0,0,1
+"there are problems with the engine",0,0,0,0,1
+"there are engine issues",0,0,0,0,1
+"the engine is problematic",0,0,0,0,1
+"the bike does not work correctly",0,0,0,0,1
+"the vehicle does not function properly",0,0,0,0,1
+"i faced problems with the bike",0,0,0,0,1
+"i have faced problems with the bike",0,0,0,0,1
+"i faced vehicle problems",0,0,0,0,1
+"i faced battery problems",0,0,0,0,1
+"i have had problems with the battery",0,0,0,0,1
+"parts of the bike do not work correctly",0,0,0,0,1
+"parts of vehicles not function correctly",0,0,0,0,1
+"the bike has had problems",0,0,0,0,1
+"the automobile has problems",0,0,0,0,1
+"vehicle has constant noises coming out",0,0,0,0,1
+"the bike is getting continual noises",0,0,0,0,1
+"the exhaust bike has problems",0,0,0,0,1
+"ongoing bike problems",0,0,0,0,1
+"ongoing vehicle issues",0,0,0,0,1
+"repetitive gearbox problems",0,0,0,0,1
+"problems with repeated transmission",0,0,0,0,1
+"motor issues repeated",0,0,0,0,1
+"repeating problems with engine",0,0,0,0,1
+"motor issues repeatedly",0,0,0,0,1
+"in bike continuous noises",0,0,0,0,1
+"many times i have face the same problem",0,0,0,0,1
+"i have the same issue many times",0,0,0,0,1
+"the bike has many problems",0,0,0,0,1
+"hi how are you",0,0,0,0,0
+"hello sir",0,0,0,0,0
+
+
+
+
+"want to buy a car",1,0,0,0,0
+"need to purchase a car",1,0,0,0,0
+"i would like information on purchasing a new car",1,0,0,0,0
+"can i get information for buying a new car",1,0,0,0,0
+"will you please provide me with the details for a new car",1,0,0,0,0
+"what is the cost of the car",1,0,0,0,0
+"we wanted to buy a new car",1,0,0,0,0
+"must purchase a car",1,0,0,0,0
+"must lease a car",1,0,0,0,0
+"think about buying a car",1,0,0,0,0
+"would like to buy a car",1,0,0,0,0
+"would you like to buy a car",1,0,0,0,0
+"thought to buy a car",1,0,0,0,0
+"think of a car buy",1,0,0,0,0
+"thinking about a car purchase",1,0,0,0,0
+"thought about a car to buy",1,0,0,0,0
+"how can i purchase a car",1,0,0,0,0
+"how do i purchase a car",1,0,0,0,0
+"how can i purchase a car",1,0,0,0,0
+"which cars can be purchased",1,0,0,0,0
+"what cars can be purchased",1,0,0,0,0
+"which cars for purchase are available",1,0,0,0,0
+"what cars to purchase are available",1,0,0,0,0
+"which cars can be purchased",1,0,0,0,0
+"what cars for purchase are accessible",1,0,0,0,0
+"would like to test a car drive",0,1,0,0,0
+"i wanted to take the test drive of the car",0,1,0,0,0
+"i want to test drive a car",0,1,0,0,0
+"want to test your car drive",0,1,0,0,0
+"would like to test the car drive",0,1,0,0,0
+"would like to test a car",0,1,0,0,0
+"want to run a car for testing",0,1,0,0,0
+"want to run a car for trial",0,1,0,0,0
+"wanna run a car to test",0,1,0,0,0
+"would like to try a car",0,1,0,0,0
+"want to run a car to test",0,1,0,0,0
+"wanna run a car for testing",0,1,0,0,0
+"run a car trial",0,1,0,0,0
+"test Run a Auto",0,1,0,0,0
+"test run a car",0,1,0,0,0
+"run a car Trial",0,1,0,0,0
+"run a car test",0,1,0,0,0
+"run a car trial",0,1,0,0,0
+"run a car for testing",0,1,0,0,0
+"car drive test",0,1,0,0,0
+"how can i test a car",0,1,0,0,0
+"how can i test a car",0,1,0,0,0
+"i would like to test your fresh car",0,1,0,0,0
+"i would like to test your new car",0,1,0,0,0
+"my car had a failure",0,0,1,0,0
+"my car has had a breakdown",0,0,1,0,0
+"my car has a rupture",0,0,1,0,0
+"a failure of my car",0,0,1,0,0
+"a breakdown in my car",0,0,1,0,0
+"my car requires to be repaired",0,0,1,0,0
+"my car is under breakdown i am on the road",0,0,1,0,0
+"i was going from pune to bombay and it has got broken down",0,0,1,0,0
+"i am somewhere near nigri",0,0,1,0,0
+"my car needs a reparation",0,0,1,0,0
+"my car needs repair",0,0,1,0,0
+"a repair of my car",0,0,1,0,0
+"need a car repair mechanic",0,0,1,0,0
+"need a mechanic for my car to repair",0,0,1,0,0
+"need a repairing mechanic for my car",0,0,1,0,0
+"require a mechanic to fix my car",0,0,1,0,0
+"require a mechanic to repair my car",0,0,1,0,0
+"require car help",0,0,1,0,0
+"require car support",0,0,1,0,0
+"need car support",0,0,1,0,0
+"need car support following an accident",0,0,1,0,0
+"require car help after an incident",0,0,1,0,0
+"requires car assistance after a crash",0,0,1,0,0
+"need car assistance after an accident",0,0,1,0,0
+"need car help following an accident",0,0,1,0,0
+"need car help after an accident",0,0,1,0,0
+"need car assistance following an accident",0,0,1,0,0
+"need car assistance after a crash",0,0,1,0,0
+"need car assistance after an accident",0,0,1,0,0
+"need car aid following an accident",0,0,1,0,0
+"please send mechanic to my accident",0,0,1,0,0
+"i have had an accident please send mechanic",0,0,1,0,0
+"please send mechanic, I had an accident",0,0,1,0,0
+"there are many problems",0,0,0,0,1
+"car is not working properly",0,0,0,0,1
+"car has a lot of issues",0,0,0,0,1
+"the gearbox is having issues",0,0,0,0,1
+"there are brake issues",0,0,0,0,1
+"brake issues are present",0,0,0,0,1
+"there are motor issues",0,0,0,0,1
+"there are problems with the engine",0,0,0,0,1
+"there are engine issues",0,0,0,0,1
+"the engine is problematic",0,0,0,0,1
+"the car does not work correctly",0,0,0,0,1
+"the car does not function properly",0,0,0,0,1
+"i faced problems with the car",0,0,0,0,1
+"i have faced problems with the car",0,0,0,0,1
+"i faced car problems",0,0,0,0,1
+"i faced battery problems",0,0,0,0,1
+"i have had problems with the battery",0,0,0,0,1
+"parts of the car do not work correctly",0,0,0,0,1
+"parts of cars not function correctly",0,0,0,0,1
+"the car has had problems",0,0,0,0,1
+"the automobile has problems",0,0,0,0,1
+"car has constant noises coming out",0,0,0,0,1
+"the car is getting continual noises",0,0,0,0,1
+"the exhaust car has problems",0,0,0,0,1
+"ongoing car problems",0,0,0,0,1
+"ongoing car issues",0,0,0,0,1
+"repetitive gearbox problems",0,0,0,0,1
+"problems with repeated transmission",0,0,0,0,1
+"motor issues repeated",0,0,0,0,1
+"repeating problems with engine",0,0,0,0,1
+"motor issues repeatedly",0,0,0,0,1
+"in car continuous noises",0,0,0,0,1
+"many times i have face the same problem",0,0,0,0,1
+"i have the same issue many times",0,0,0,0,1
+"the car has many problems",0,0,0,0,1
+"hi how are you",0,0,0,0,0
+"hello sir",0,0,0,0,0
+
+
+
+
+"want to buy a car",1,0,0,0,0
+"need to purchase a vehicle",1,0,0,0,0
+"i would like information on purchasing a new vehicle",1,0,0,0,0
+"can i get information for buying a new vehicle",1,0,0,0,0
+"will you please provide me with the details for a new vehicle",1,0,0,0,0
+"what is the cost of the car",1,0,0,0,0
+"we wanted to buy a new vehicle",1,0,0,0,0
+"must purchase a car",1,0,0,0,0
+"must lease a car",1,0,0,0,0
+"think about buying a vehicle",1,0,0,0,0
+"would like to buy a car",1,0,0,0,0
+"would you like to buy a vehicle",1,0,0,0,0
+"thought to buy a vehicle",1,0,0,0,0
+"think of a suv buy",1,0,0,0,0
+"thinking about a suv purchase",1,0,0,0,0
+"thought about a vehicle to buy",1,0,0,0,0
+"how can i purchase a vehicle",1,0,0,0,0
+"how do i purchase a vehicle",1,0,0,0,0
+"how can i purchase a car",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles can be purchased",1,0,0,0,0
+"which cars for purchase are available",1,0,0,0,0
+"what cars to purchase are available",1,0,0,0,0
+"which vehicles can be purchased",1,0,0,0,0
+"what vehicles for purchase are accessible",1,0,0,0,0
+"would like to test a vehicle drive",0,1,0,0,0
+"i wanted to take the test drive of the car",0,1,0,0,0
+"i want to test drive a car",0,1,0,0,0
+"want to test your vehicle drive",0,1,0,0,0
+"would like to test the suv drive",0,1,0,0,0
+"would like to test a vehicle",0,1,0,0,0
+"want to run a vehicle for testing",0,1,0,0,0
+"want to run a suv for trial",0,1,0,0,0
+"wanna run a vehicle to test",0,1,0,0,0
+"would like to try a car",0,1,0,0,0
+"want to run a suv to test",0,1,0,0,0
+"wanna run a vehicle for testing",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"test Run a Auto",0,1,0,0,0
+"test run a vehicle",0,1,0,0,0
+"run a suv trial",0,1,0,0,0
+"run a vehicle test",0,1,0,0,0
+"run a vehicle trial",0,1,0,0,0
+"run a suv for testing",0,1,0,0,0
+"vehicle drive test",0,1,0,0,0
+"how can i test a car",0,1,0,0,0
+"how can i test a vehicle",0,1,0,0,0
+"i would like to test your fresh car",0,1,0,0,0
+"i would like to test your new vehicle",0,1,0,0,0
+"my suv had a failure",0,0,1,0,0
+"my vehicle has had a breakdown",0,0,1,0,0
+"my vehicle has a rupture",0,0,1,0,0
+"a failure of my car",0,0,1,0,0
+"a breakdown in my car",0,0,1,0,0
+"my suv requires to be repaired",0,0,1,0,0
+"my vehicle is under breakdown i am on the road",0,0,1,0,0
+"i was going from pune to bombay and it has got broken down",0,0,1,0,0
+"i am somewhere near nigri",0,0,1,0,0
+"my suv needs a reparation",0,0,1,0,0
+"my suv needs repair",0,0,1,0,0
+"a repair of my car",0,0,1,0,0
+"need a suv repair mechanic",0,0,1,0,0
+"need a mechanic for my vehicle to repair",0,0,1,0,0
+"need a repairing mechanic for my car",0,0,1,0,0
+"require a mechanic to fix my car",0,0,1,0,0
+"require a mechanic to repair my car",0,0,1,0,0
+"require suv help",0,0,1,0,0
+"require suv support",0,0,1,0,0
+"need vehicle support",0,0,1,0,0
+"need suv support following an accident",0,0,1,0,0
+"require suv help after an incident",0,0,1,0,0
+"requires vehicle assistance after a crash",0,0,1,0,0
+"need vehicle assistance after an accident",0,0,1,0,0
+"need suv help following an accident",0,0,1,0,0
+"need suv help after an accident",0,0,1,0,0
+"need vehicle assistance following an accident",0,0,1,0,0
+"need vehicle assistance after a crash",0,0,1,0,0
+"need suv assistance after an accident",0,0,1,0,0
+"need suv aid following an accident",0,0,1,0,0
+"please send mechanic to my accident",0,0,1,0,0
+"i have had an accident please send mechanic",0,0,1,0,0
+"please send mechanic, I had an accident",0,0,1,0,0
+"how would you rate our services",0,0,0,1,0
+"how are you going to rate our services",0,0,0,1,0
+"you can reply on a scale of one to ten",0,0,0,1,0
+"one being the lowest and ten being the highest",0,0,0,1,0
+"i liked your treatment",0,0,0,1,0
+"we are trying to assess your feedback",0,0,0,1,0
+"there are many problems",0,0,0,0,1
+"suv is not working properly",0,0,0,0,1
+"suv has a lot of issues",0,0,0,0,1
+"the gearbox is having issues",0,0,0,0,1
+"there are brake issues",0,0,0,0,1
+"brake issues are present",0,0,0,0,1
+"there are motor issues",0,0,0,0,1
+"there are problems with the engine",0,0,0,0,1
+"there are engine issues",0,0,0,0,1
+"the engine is problematic",0,0,0,0,1
+"the suv does not work correctly",0,0,0,0,1
+"the vehicle does not function properly",0,0,0,0,1
+"i faced problems with the car",0,0,0,0,1
+"i have faced problems with the car",0,0,0,0,1
+"i faced vehicle problems",0,0,0,0,1
+"i faced battery problems",0,0,0,0,1
+"i have had problems with the battery",0,0,0,0,1
+"parts of the suv do not work correctly",0,0,0,0,1
+"parts of vehicles not function correctly",0,0,0,0,1
+"the suv has had problems",0,0,0,0,1
+"the automobile has problems",0,0,0,0,1
+"vehicle has constant noises coming out",0,0,0,0,1
+"the suv is getting continual noises",0,0,0,0,1
+"the exhaust suv has problems",0,0,0,0,1
+"ongoing suv problems",0,0,0,0,1
+"ongoing vehicle issues",0,0,0,0,1
+"repetitive gearbox problems",0,0,0,0,1
+"problems with repeated transmission",0,0,0,0,1
+"motor issues repeated",0,0,0,0,1
+"repeating problems with engine",0,0,0,0,1
+"motor issues repeatedly",0,0,0,0,1
+"in suv continuous noises",0,0,0,0,1
+"many times i have face the same problem",0,0,0,0,1
+"i have the same issue many times",0,0,0,0,1
+"the suv has many problems",0,0,0,0,1
+"hi how are you",0,0,0,0,0
+"hello sir",0,0,0,0,0
+"can I have your name and reference number",0,0,0,0,0
+"so can you hear me",0,0,0,0,0
